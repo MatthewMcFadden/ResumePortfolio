@@ -1,5 +1,5 @@
 # Resume Portfolio
-Used [this][Build a Portfolio Website with React and Sanity.io] !["Youtube Favicon"](https://youtube.com/favicon.ico) video.
+Used this [Youtube][Build a Portfolio Website with React and Sanity.io] !["Youtube Favicon"](https://youtube.com/favicon.ico) video as a reference on building this React Portfolio.
 
 ## Sanity CLI
 Used Sanity CLI to compile ***Projects*** and ***Portfolio information*** all in one place.
