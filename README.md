@@ -1,4 +1,5 @@
-[https://www.youtube.com/watch?v=NO7_jgzVgbc&list=WL&index=22&t=442s&ab_channel=TraversyMedia]
+# Resume Portfolio
+Used [this][Build a Portfolio Website with React and Sanity.io] !["Youtube Favicon"](https://youtube.com/favicon.ico) video.
 
 ## Sanity CLI
 Used Sanity CLI to compile ***Projects*** and ***Portfolio information*** all in one place.
@@ -15,3 +16,6 @@ First be in the root folder then cd into portfolio, then:
 
 ### sanity start
 Once started go to **localhost:3333** (or similar. It'll tell you which one to go to). Once logged in using Gmail I can **Post** content and add new **Projects**.
+
+## Links
+[Build a Portfolio Website with React and Sanity.io]: https://www.youtube.com/watch?v=NO7_jgzVgbc&list=WL&index=22&t=442s&ab_channel=TraversyMedia
